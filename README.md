@@ -1,8 +1,6 @@
 ## Hi there I'm Somya👋
 
 
-<img src="https://cdni.iconscout.com/illustration/premium/thumb/woman-working-on-laptop-at-home-4345550-3607068.png" align="right" alt="Coding Illustration" width="380" />
-
 ✨ **in love with tech**
 
 ✨ **exploring machine learning & deep learning**
