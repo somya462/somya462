@@ -26,7 +26,7 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=somya462&show_icons=true&theme=dark&bg_color=0d1117&hide_border=false&cache_bypass=1" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somya462&layout=compact&theme=dark&bg_color=0d1117&hide_border=false" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somya462&layout=compact&theme=dark&bg_color=0d1117&hide_border=false&cache_bypass=1" alt="Top Languages" width="48%" />
 </p>
 <br/>
 
