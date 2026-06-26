@@ -15,7 +15,7 @@
 ### Skills :
 
 🚀 **AI & Data Science**
-![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Deep Learning](https://img.shields.io/badge/Deep_Learning-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-00A2ED?style=for-the-badge&logo=dataiku&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Deep Learning](https://img.shields.io/badge/Deep_Learning-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-00A2ED?style=for-the-badge&logo=dataiku&logoColor=white) ![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 💻 **Core Tech Stack**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) 
